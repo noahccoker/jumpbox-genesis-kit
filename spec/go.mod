@@ -4,6 +4,6 @@ go 1.14
 
 require (
 	github.com/genesis-community/testkit v0.0.0-20210202143224-371569997dc4
-	github.com/onsi/ginkgo v1.14.0
-	github.com/onsi/gomega v1.10.1
+	github.com/onsi/ginkgo v1.16.4
+	github.com/onsi/gomega v1.17.0
 )
